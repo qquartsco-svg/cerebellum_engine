@@ -1,0 +1,10 @@
+{
+  "version": "v0.6.0-beta",
+  "timestamp": "2026-01-22",
+  "files": {
+    "package/cerebellum/cerebellum_engine.py": "e103b7dccd8d24e84e82e5c7525c14d516bbcbdceaba88e0ec3b5ba7a7b352aa",
+    "package/cerebellum/__init__.py": "a10abfc54fd553a6c041d92094ae1f6df6212990f47bab8bb46446fb9ace92d7",
+    "README.md": "72c4582292d084a9327a530baeb70522237810c9c9c164d03cd0295ff88d73c2",
+    "README_EN.md": "59ba2f51fec70016b4edbcf6e156cf2aa7c846903b55e2d402d116f503586be7"
+  }
+}
